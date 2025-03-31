@@ -9,7 +9,7 @@ Ruben:
   - vi ruben.txt, added text to the document
   - git status to see the file to add
   - git add ruben.txt
-  - git commit -m "<commit message>"
+  - git commit -m "commit message"
   - git push
 
 Liam:
