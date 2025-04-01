@@ -21,6 +21,7 @@ Liam:
 
 ## Part 2
 - git log (as per instructions)
+
 Liam:
 - Created branch on command line:
   - git branch "branch name"
