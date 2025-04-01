@@ -27,7 +27,7 @@ Liam:
   - git checkout "branch name"
 - Modify a file (liam.txt) on new branch
 - Push changes to branch:
-  - git add liam.txt
+  - git add liam.md
   - git commit -m "commit message"
   - git push --set-upstream origin "branch name"
 - Created pull request via GitHub website
