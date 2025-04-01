@@ -20,5 +20,23 @@ Liam:
 - Emotional support
 
 ## Part 2
+- git log (as per instructions)
+Liam:
+- Created branch on command line:
+  - git branch "branch name"
+  - git checkout "branch name"
+- Modify a file (liam.txt) on new branch
+- Push changes to branch:
+  - git add liam.txt
+  - git commit -m "commit message"
+  - git push --set-upstream origin "branch name"
+- Created pull request via GitHub website
+
+Ruben:
+- On GitHub website:
+  - Reviewed and accepted pull request
+  - Merged branch into main
+
+- git log (as per instructions)
 
 ## Part 3
