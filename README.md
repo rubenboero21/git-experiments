@@ -55,7 +55,7 @@ Ruben:
 - Also modified the same line as Liam did above
 - Tried to git pull, got merge conflict error
 - Used "git pull --rebase" command. 
-  - This failed as well because of the conflict
+  - This failed partially through because of the conflict
 - Opened VSCode to get a nice graphical view of the conflicting lines 
 - Fixed the merge conflict by removing the change Ruben made from the file
 - Used "git rebase --continue"
