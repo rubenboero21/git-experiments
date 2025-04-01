@@ -62,5 +62,6 @@ Ruben:
   - https://stackoverflow.com/questions/13106179/error-fatal-not-possible-to-fast-forward-aborting
 - Opened the conflicting file with VSCode to get a nice graphical view of the conflicting lines 
 - Fixed the merge conflict by removing the change Ruben made from the file
+- git add the file with conflict resolved
 - Used "git rebase --continue"
 - Merge conflict resolved
